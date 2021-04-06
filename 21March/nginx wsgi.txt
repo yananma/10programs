@@ -16,6 +16,7 @@ pidfile = /home/xxkt_uwsgi/master.pid
 daemonize = /home/xxkt_uwsgi/xxkt.log
 vacuum = True
 
+Nginx 
 
 server {
     listen 80;
